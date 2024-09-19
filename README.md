@@ -1,7 +1,10 @@
 ## Bonjour 👋
 
-## Je suis Assia, je suis actuellement etudiante en M2 BDIA a l'université de Bourgogne. 
-## Comment me contacter: assiahammani21260@gmail.com
+ Je suis Assia, je suis actuellement etudiante en M2 BDIA a l'université de Bourgogne. 
+
+ <p align='center'>
+   Comment me contacter: <a href='mailto:assiahammani21260@gmail.com'>assiahammani21260@gmail.com</a>
+</p>
 <p align='center'>
    <a href="https://github.com/asiaHH/github-readme-stats">
       <img height=150 src="https://github-readme-stats.vercel.app/api?username=asiaHH"/></a>
@@ -9,19 +12,27 @@
 <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=asiaHH&layout=compact"/></a>
 </p>
 
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=asiaHH&show_icons=true&count_private=true"><img
+           height=150
+           src="https://github-readme-stats.vercel.app/api?username=asiaHH&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/asiaHH/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=asiaHH&layout=compact"/></a>
+</p>
 
+### Compétences
+*   Organisation
+*   Communication
+*   Curiosité
+*   Esprit d'équipe
+*   Force de proposition
 
-<!--
-**asiaHH/asiaHH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Logiciels
+*   Microsoft OneNote
+*   Trello
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Langages
+*   Java/C/HTML/CSS/Javascript/Typescript/Php/Python
+*   MySQL, MongoDB, Oracle
+*   MongoDB,Angular
+*   GitHub
