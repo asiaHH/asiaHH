@@ -6,11 +6,10 @@
    <a href="https://github.com/asiaHH/github-readme-stats">
       <img height=150 src="https://github-readme-stats.vercel.app/api?username=asiaHH"/></a>
 </p>
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/asiaHH/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=asiaHH&color=DE002D">
-   </a>
-</div>
+
+<a href="https://github.com/asiaHH/github-readme-stats">
+<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=asiaHH&layout=compact"/></a>
+
 <!--
 **asiaHH/asiaHH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
