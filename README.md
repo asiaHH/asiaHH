@@ -12,13 +12,6 @@
 <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=asiaHH&layout=compact"/></a>
 </p>
 
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=asiaHH&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=asiaHH&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/asiaHH/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=asiaHH&layout=compact"/></a>
-</p>
 
 ### Compétences
 *   Organisation
