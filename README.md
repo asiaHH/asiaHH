@@ -3,9 +3,9 @@
 ## Je suis Assia, je suis actuellement etudiante en M2 BDIA a l'université de Bourgogne. Je recherche actuellement un stage en informatique.
 ## Comment me contacter: assiahammani21260@gmail.com
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=asiaHH&show_icons=true&count_private=true">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=asiaHH&show_icons=true&count_private=true"/></a>
-  
+   <a href="https://github.com/asiaHH/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
+   (https://github-readme-stats.vercel.app/api?asiaHH=asiaHH)](https://github.com/asiaHH/github-readme-stats)
 </p>
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/asiaHH/github-profile-views-counter">
