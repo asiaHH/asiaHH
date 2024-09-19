@@ -1,6 +1,6 @@
 ## Bonjour 👋
 
-## Je suis Assia, je suis actuellement etudiante en M2 BDIA a l'université de Bourgogne. Je recherche actuellement un stage en informatique.
+## Je suis Assia, je suis actuellement etudiante en M2 BDIA a l'université de Bourgogne. 
 ## Comment me contacter: assiahammani21260@gmail.com
 <p align='center'>
    <a href="https://github.com/asiaHH/github-readme-stats">
