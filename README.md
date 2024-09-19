@@ -4,7 +4,7 @@
 ## Comment me contacter: assiahammani21260@gmail.com
 <p align='center'>
    <a href="https://github.com/asiaHH/github-readme-stats">
-      <img height=150 src="https://github-readme-stats.vercel.app/api?asiaHH=asiaHH"/></a>
+      <img height=150 src="https://github-readme-stats.vercel.app/api?username=asiaHH"/></a>
 </p>
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/asiaHH/github-profile-views-counter">
