@@ -14,7 +14,7 @@
 
 
 ### Compétences
-*   Organisation
+*   Méthodique
 *   Communication
 *   Curiosité
 *   Esprit d'équipe
@@ -23,9 +23,10 @@
 ## Logiciels
 *   Microsoft OneNote
 *   Trello
+*   Visual Studio
 
 ## Langages
-*   Java/C/HTML/CSS/Javascript/Typescript/Php/Python
-*   MySQL, MongoDB, Oracle
+*   Java/C/HTML/CSS/Php/Python
+*   MySQL, Oracle
 *   MongoDB,Angular
-*   GitHub
+
