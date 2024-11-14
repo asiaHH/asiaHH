@@ -5,28 +5,23 @@
  <p align='center'>
    Comment me contacter: <a href='mailto:assiahammani21260@gmail.com'>assiahammani21260@gmail.com</a>
 </p>
-<p align='center'>
-   <a href="https://github.com/asiaHH/github-readme-stats">
-      <img height=150 src="https://github-readme-stats.vercel.app/api?username=asiaHH"/></a>
-   <a href="https://github.com/asiaHH/github-readme-stats">
-<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=asiaHH&layout=compact"/></a>
-</p>
+
 
 
 ### Compétences
-*   Méthodique
-*   Communication
+*   Force de proposition
+*   Bon relationnel
 *   Curiosité
 *   Esprit d'équipe
-*   Force de proposition
+*   Autonomie
 
 ## Logiciels
-*   Microsoft OneNote
 *   Trello
 *   Visual Studio
+*   Git
 
 ## Langages
-*   Java/C/HTML/CSS/Php/Python
-*   MySQL, Oracle
-*   MongoDB,Angular
+*   HTML&CSS/C#/Python
+*   MySQL, Oracle, MongoDB
+*   Angular
 
