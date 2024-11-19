@@ -23,5 +23,5 @@
 ## Langages
 *   HTML&CSS/C#/Python
 *   MySQL, Oracle, MongoDB
-*   Angular
+*   Angular, Java
 
