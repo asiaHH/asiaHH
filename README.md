@@ -6,7 +6,14 @@
    Comment me contacter: <a href='mailto:assiahammani21260@gmail.com'>assiahammani21260@gmail.com</a>
 </p>
 
+# Bienvenue sur mon dépôt GitHub !
 
+Ce dépôt contient plusieurs projets. Voici quelques-uns des répertoires importants :
+
+- **[projet_M1](asiaHH/projets_M1/)** : Quelques un de mes projets réalises en Master 1.
+
+## À propos
+Ce dépôt a été conçu pour partager mes travaux et projets en informatique, réalisés pendant mon cursus.
 
 ### Compétences
 *   Force de proposition
