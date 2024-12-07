@@ -10,7 +10,7 @@
 
 Ce dépôt contient plusieurs projets. Voici quelques-uns des répertoires importants :
 
-- **[projet_M1](asiaHH/projets_M1/)** : Quelques un de mes projets réalises en Master 1.
+- **[projets_M1](./projets_M1/)** : Quelques un de mes projets réalises en Master 1.
 
 ## À propos
 Ce dépôt a été conçu pour partager mes travaux et projets en informatique, réalisés pendant mon cursus.
